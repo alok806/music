@@ -1,2 +1,3 @@
-# music
-Music notations in music XML
+# Music
+
+My attempts at reverse engineering simple songs to corresponding music notations
